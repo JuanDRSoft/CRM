@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "juan diego",
+      "empresa": "Jthree agency",
+      "email": "juandirios2011@gmail.com",
+      "telefono": "3103782458",
+      "notas": "CLiente premium",
+      "id": 3
+    },
+    {
+      "nombre": "julian ",
+      "empresa": "javsoft",
+      "email": "javs@gmail.com",
+      "telefono": "212899212",
+      "notas": "programador\n",
+      "id": 5
+    },
+    {
+      "nombre": "Juan jose",
+      "empresa": "Celuweb",
+      "email": "juangiral4@gmail.com",
+      "telefono": "388290012",
+      "notas": "programador",
+      "id": 7
+    }
+  ]
+}
