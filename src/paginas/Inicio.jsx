@@ -54,6 +54,7 @@ const Inicio = () => {
             <th className="p-2">Acciones</th>
           </tr>
         </thead>
+
         <tbody>
           {clientes.map((cliente) => (
             <Cliente
